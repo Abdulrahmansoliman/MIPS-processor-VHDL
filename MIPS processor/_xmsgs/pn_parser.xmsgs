@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/ALUControl.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/ControlUnit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/Datamem.V4 (1).vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/InstMem.V3.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/MainModule.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/Mux2X1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/REG.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/RegisterFile.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/ShiftLeft.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/SignExtend.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/adder_32_bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/adder_subtractor.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/alu_1b.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/alu_32.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/mux.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/newdec.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Extra/Phase 2 final - Copy - Copy/Phase 2 final - Copy - Copy/SecondPhase (4)/SecondPhase/pc.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+
