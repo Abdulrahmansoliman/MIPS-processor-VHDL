@@ -1,5 +1,5 @@
 # MIPS-processor-VHDL
-A design of MIPS processor using VHDL that illustrates a basic computer system by simulating the data and control paths.
+
 A design of MIPS processor using VHDL that illustrates a basic computer system by simulating the data and control paths.
 
 First thing that was implemented in the processor was the MIPS register file that reads simultaneously from two registers and write into another.
